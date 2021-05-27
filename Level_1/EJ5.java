@@ -1,3 +1,4 @@
+package Level_1;
 import java.util.*;
 
 public class EJ5 {
@@ -11,5 +12,6 @@ public class EJ5 {
       resultado+=n1;
     }
     System.out.println(n1 + " * " + n2 + " = " + resultado);
+    e.close();
   }
 }

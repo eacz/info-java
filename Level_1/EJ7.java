@@ -1,3 +1,4 @@
+package Level_1;
 import java.util.*;
 
 public class EJ7 {
@@ -11,6 +12,7 @@ public class EJ7 {
       palabraMayuscula += UppercaseArcaico(palabra.charAt(i));
     }
     System.out.println(palabraMayuscula);
+    e.close();
   }
 
 

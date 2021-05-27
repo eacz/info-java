@@ -1,5 +1,7 @@
+package Level_2;
 import java.util.*;
-public class EJ4 {
+
+public class EJ5 {
   public static void main(String[] args) {
     List<Integer> horasTrabajadas  = new ArrayList<>(
       Arrays.asList(27,40,45,30,42)

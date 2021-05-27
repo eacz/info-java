@@ -1,3 +1,4 @@
+package Level_1;
 import java.util.*;
 
 public class EJ3 {
@@ -11,5 +12,6 @@ public class EJ3 {
       }
       System.out.println("");
     }
+    e.close();
   }
 }

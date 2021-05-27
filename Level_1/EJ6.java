@@ -1,3 +1,4 @@
+package Level_1;
 import java.util.*;
 
 public class EJ6 {
@@ -12,5 +13,6 @@ public class EJ6 {
       resultado*=base;
     }
     System.out.println(base + " elevado a " + potencia + " = " + resultado);
+    e.close();
   }
 }

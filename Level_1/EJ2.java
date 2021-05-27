@@ -1,3 +1,4 @@
+package Level_1;
 import java.util.*;
 
 public class EJ2 {
@@ -13,5 +14,7 @@ public class EJ2 {
     System.out.println(n1 + " * " + n2 + " = " + (n1*n2));
     System.out.println(n1 + " / " + n2 + " = " + (n1/n2));
     System.out.println(n1 + " % " + n2 + " = " + (n1%n2));
+
+    e.close();
   }
 }

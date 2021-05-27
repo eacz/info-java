@@ -1,4 +1,6 @@
+package Level_2;
 import java.util.*;
+
 public class EJ3 {
   public static void main(String[] args) {
     /* Se puede hacer todo con un mismo array, pero decidí tratarlo por arrays separados 

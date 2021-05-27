@@ -1,4 +1,6 @@
+package Level_2;
 import java.util.*;
+
 public class EJ2 {
   public static void main(String[] args) {
     List<Integer> nros  = new ArrayList<>();

@@ -1,4 +1,6 @@
+package Level_2;
 import java.util.*;
+
 public class EJ1 {
   public static void main(String[] args) {
     Scanner e = new Scanner(System.in);
@@ -16,5 +18,7 @@ public class EJ1 {
     for(int i = 0; i < ciudades.size(); i++){
       System.out.println("#" + (i+1) + " - " + ciudades.get(i));
     }
+    e.close();
+    e2.close();
   }
 }

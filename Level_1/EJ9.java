@@ -1,6 +1,8 @@
+package Level_1;
 import java.util.*;
 
-public class EJ8 {
+
+public class EJ9 {
   public static void main(String[] args) {
     Scanner e = new Scanner(System.in);
     System.out.println("Ingrese una frase: ");
@@ -14,5 +16,6 @@ public class EJ8 {
         }
     }
     System.out.println("El caracter aparece " + cont + " veces");
+    e.close();
   }
 }

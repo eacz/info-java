@@ -1,4 +1,6 @@
+package Level_1;
 import java.util.*;
+
 
 public class EJ8 {
   public static void main(String[] args) {
@@ -10,5 +12,6 @@ public class EJ8 {
     int edad = e.nextInt();
     String todojunto = ciudad + " - " + direccion + " - " + edad + " - " + nombre;
     System.out.println(todojunto);
+    e.close();
   }
 }
