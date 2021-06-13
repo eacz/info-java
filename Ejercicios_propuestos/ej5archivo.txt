@@ -1,0 +1,5 @@
+Carlos,Sanchez,20-01-1980,45678.08
+Pedro,Perez,20-01-1990,45000.13
+Esteban,Canteros,20-02-2000,30000.00
+Juan,Juanes,20-01-2001,20000.02
+Daniel,Tronki,20-01-1975,25000.02
